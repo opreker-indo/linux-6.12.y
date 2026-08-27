@@ -113,6 +113,7 @@ dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3399-sapphire.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3399-sapphire-excavator.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3399-sv-33a6x.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3399-sv-33a6x-vpu.dtb
+dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3399-sz3390.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3399-taram.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3399-firefly-core-3399-jd4.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3399-tb-ls3399.dtb
